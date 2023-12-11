@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<html>
+<body>
+<h2>JavaScript sets</h2>
+<p>Creating a set from an Array:</p>
+<p id="demo"></p>
+<script>
+const letters = new set(["a","b","c"]);
+// Display set.sizedocument.getElementById("demo").innerHTML = letters.size;
+</script> 
+</body>
+</html>
